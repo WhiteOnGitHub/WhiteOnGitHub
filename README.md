@@ -8,6 +8,6 @@ I am an amateur C++ programmer who likes making modifications for Minecraft Bedr
 # Repositories
 [NoDeathEXP](https://github.com/WhiteOnGitHub/NoDeathEXP-for-MCBE)
 # Contacts 
-- White#5959 - DISCORD
+White#5959 - DISCORD
 
 
